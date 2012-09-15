@@ -1,6 +1,4 @@
 AGETAC
 ======
 
-lol
-
 Projet AGETAC
